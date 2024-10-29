@@ -8,6 +8,14 @@ comments: false
 
 <center><a href="http://TolgaTatli.github.io/Moonrise"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
+> [!TIP]
+> THIS IS A TIP
+
+
+> [!NOTE]
+> THIS IS A TIPO
+
+
 ## Features
 
 -   Minimal, you can focus on your content
