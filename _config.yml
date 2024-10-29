@@ -70,6 +70,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-include-cache
+  - jekyll-gfm-admonitions
 
 jekyll-mentions:
   base_url: https://github.com
